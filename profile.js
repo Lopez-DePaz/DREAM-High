@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "I hope to learn how to be proficient in R and get an idea for how code is applied to computational biology in DREAM-High. My interests are how genes affect the human body as a whole. Thus, I am excited to explore how to use R for managing, summarizing, and visualizing the data that genes produce.",
 
   /*
   Optional photo:
