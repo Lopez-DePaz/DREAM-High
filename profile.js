@@ -27,7 +27,7 @@ const studentProfile = {
   */
   photo: "profile.jpg",
 
-  contact: "Contact information available upon request.",
+  contact: "Email: argen.lopezdepaz.0103@gmail.com",
 
   /*
   RPubs activities:
