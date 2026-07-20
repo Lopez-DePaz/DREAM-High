@@ -54,7 +54,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
+    description: "For my project I will code a website that combs through biological datasets to find cancer and its hidden patterns.",
     url: ""
   },
 
